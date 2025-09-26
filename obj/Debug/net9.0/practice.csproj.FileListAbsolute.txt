@@ -1,0 +1,14 @@
+/Users/sakon/dev_project/csharp/practice/bin/Debug/net9.0/practice
+/Users/sakon/dev_project/csharp/practice/bin/Debug/net9.0/practice.deps.json
+/Users/sakon/dev_project/csharp/practice/bin/Debug/net9.0/practice.runtimeconfig.json
+/Users/sakon/dev_project/csharp/practice/bin/Debug/net9.0/practice.dll
+/Users/sakon/dev_project/csharp/practice/bin/Debug/net9.0/practice.pdb
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.AssemblyInfoInputs.cache
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.AssemblyInfo.cs
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.csproj.CoreCompileInputs.cache
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.dll
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/refint/practice.dll
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.pdb
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.genruntimeconfig.cache
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/ref/practice.dll
