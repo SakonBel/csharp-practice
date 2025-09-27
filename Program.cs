@@ -17,3 +17,22 @@ double PI = Math.PI;
 double radius = 2.50;
 double circleArea = PI * (Math.Pow(radius, 2));
 Console.WriteLine(circleArea);
+
+// ------------- Lists Challenges ------------------
+List<int> fibonacciNumbers = [1, 1];
+int previous = fibonacciNumbers[^1];
+int previous2 = fibonacciNumbers[^2];
+
+int length = fibonacciNumbers.Count;
+while (length < 21)
+{
+  fibonacciNumbers.Add(previous + previous2);
+  previous = fibonacciNumbers[^1];
+  previous2 = fibonacciNumbers[^2];
+  length++;
+}
+
+foreach (int num in fibonacciNumbers)
+{
+  Console.WriteLine(num);
+}
