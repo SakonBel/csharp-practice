@@ -12,3 +12,4 @@
 /Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.pdb
 /Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.genruntimeconfig.cache
 /Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/ref/practice.dll
+/Users/sakon/dev_project/csharp/practice/obj/Debug/net9.0/practice.sourcelink.json
